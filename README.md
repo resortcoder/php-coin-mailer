@@ -24,6 +24,8 @@ Eğer belirlediğimiz limitten fazla bir değişim mevcutsa kendi mail adresimiz
         ..
         $mail->addAddress('gonderilecek@gmail.com', 'Adınız');     // Add a recipient
 ```
+**Yazar** <br>
+Sunucunuzun paneli üzerinden Cron görevi oluşturarak, bu işlemleri belirli zamanlara bağlayabilirsiniz. Ayarladığınız cron görevi sayesinde zamanladığınız bu dosya ilgili zamanda sunucu tarafından otomatik çalıştırılacak ve görevini yerine getirecektir. 
 
 **Yazar**
 [Mustafa Çakmak](http://www.gunlukyaz.com/)
