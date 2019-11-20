@@ -18,7 +18,6 @@ Eğer belirlediğimiz limitten fazla bir değişim mevcutsa kendi mail adresimiz
 
 ``` php
         $mail->Host       = 'ornek.emailsunucusu.com'; // Set the SMTP server to send through
-        $mail->SMTPAuth   = true;                     // Enable SMTP authentication
         $mail->Username   = 'ornek@emailadresi.com';  // SMTP username
         $mail->Password   = 'ornekparola123';       // SMTP password
         $mail->Port       = 587;  // SMTP port
