@@ -27,5 +27,3 @@ Eğer belirlediğimiz limitten fazla bir değişim mevcutsa kendi mail adresimiz
 **Zamanlama** <br>
 Sunucunuzun paneli üzerinden Cron görevi oluşturarak, bu işlemleri belirli zamanlara bağlayabilirsiniz. Ayarladığınız cron görevi sayesinde zamanladığınız bu dosya ilgili zamanda sunucu tarafından otomatik çalıştırılacak ve görevini yerine getirecektir. 
 
-**Yazar**<br>
-[Mustafa Çakmak](http://www.gunlukyaz.com/)
